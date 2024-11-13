@@ -29,7 +29,7 @@ const displayData = async (filtro) => {
 
   //Filtrar lista se houver parametro de filtro
   if(filtro){
-    lista = data.livros.filter(item=>item.titulo.includes(filtro))
+    lista = data.livros.filter(item=>item.titulo.toLowerCase().includes(filtro.toLowerCase()))
   }
   else{
     lista = data.livros
