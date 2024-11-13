@@ -1,0 +1,155 @@
+{
+    "livros": [
+        {
+            "titulo": "Quem mexeu no meu queijo?",
+            "autor": "Spencer Johnson",
+            "ano": 1998,
+            "editora": "Record",
+            "categorias": [
+                "Psicologia e autoajuda",
+                "Liderança",
+                "Desenvolvimento pessoal",
+                "Motivacional"
+            ],
+            "imagem_capa": "./imgs/quem-mexeu-no-meu-queijo.jpg",
+            "sinopse": "Quem mexeu no meu queijo? é uma parábola simples que revela verdades profundas sobre mudança...",
+            "numero_paginas": 107,
+            "link": "https://www.amazon.com.br/Quem-mexeu-no-meu-queijo/dp/850105402X"
+        },
+        {
+            "titulo": "Por isso a gente acabou",
+            "autor": "Daniel Handler",
+            "ano": 2011,
+            "editora": "Seguinte",
+            "categorias": [
+                "Ficção",
+                "Romance",
+                "Drama"
+            ],
+            "imagem_capa": "./imgs/por-isso-a-gente-acabou.jpg",
+            "sinopse": "Um relato emocionante sobre o fim de um relacionamento adolescente...",
+            "numero_paginas": 368,
+            "link": "https://www.amazon.com.br/isso-gente-acabou-Daniel-Handler/dp/8535920234"
+        },
+        {
+            "titulo": "Diário de um Banana 1",
+            "autor": "Jeff Kinney",
+            "ano": 2007,
+            "editora": "V&R",
+            "categorias": [
+                "Infantil",
+                "Comédia",
+                "Juvenil"
+            ],
+            "imagem_capa": "./imgs/diario-de-um-banana-1.jpg",
+            "sinopse": "As desventuras de Greg Heffley, um menino que enfrenta os altos e baixos do ensino fundamental...",
+            "numero_paginas": 218,
+            "link": "https://www.amazon.com.br/Di%C3%A1rio-Um-Banana-Jeff-Kinney/dp/8576831309/ref=asc_df_8576831309/?tag=googleshopp00-20&linkCode=df0&hvadid=709883381686&hvpos=&hvnetw=g&hvrand=13500650631620183292&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100398&hvtargid=pla-811355936313&psc=1&mcid=af1c45e2538a3761a2e1ebac9272c1eb&gad_source=1"
+        },
+        {
+            "titulo": "O guia do mochileiro das galáxias",
+            "autor": "Douglas Adams",
+            "ano": 1979,
+            "editora": "Arqueiro",
+            "categorias": [
+                "Ficção científica",
+                "Humor",
+                "Aventura"
+            ],
+            "imagem_capa": "./imgs/o-guia-do-mochileiro-das-galaxias.jpg",
+            "sinopse": "Um clássico da ficção científica, cheio de humor e aventuras intergalácticas...",
+            "numero_paginas": 208,
+            "link": "https://www.amazon.com.br/guia-mochileiro-das-gal%C3%A1xias-Ilustrada/dp/6555651326/ref=sr_1_2?adgrpid=106299467654&dib=eyJ2IjoiMSJ9.xWfFBdIujPV-RquYB21FIjD7JCV5wc-fXtADF5bxMysibpJLHDavOaeRfPhGCLeIP5lRdZKpfneK3BRgV1jWgfXAoSjnwUVaUDwzy33aE_mjxOJ5VztErj1Ib4mPUj95jdbsc1KhR2DXMAOaiGZAglYiA0VSk_4DeqApa8lku22CoZP9wyXCLJReDKZR7C6xg-6bzXXnJ1U8qAmZjuPaLq_yuxVenJZKWZkDO7MPIG4wH9jB5F1geN4W1yI3Dw52-IqoWGD9HEqQm0YEVBFEqh3F0ohNL7r_Cd4oz-Y-CgY.cfM3BkxcOhcrgTPTI_vDHelJ6i6K8A7n3TbQbJdwtDk&dib_tag=se&hvadid=595838265025&hvdev=c&hvlocphy=9100398&hvnetw=g&hvqmt=e&hvrand=9539718582772839549&hvtargid=kwd-401245686210&hydadcr=22516_13519562&keywords=guia+mochileiro+gal%C3%A1xias&qid=1730655344&sr=8-2"
+        },
+        {
+            "titulo": "Marcada",
+            "autor": "P.C. Cast e Kristin Cast",
+            "ano": 2007,
+            "editora": "Novo Século",
+            "categorias": [
+                "Fantasia",
+                "Romance",
+                "Sobrenatural"
+            ],
+            "imagem_capa": "./imgs/marcada.jpg",
+            "sinopse": "A história de Zoey Redbird, uma adolescente que é escolhida para se tornar uma vampira...",
+            "numero_paginas": 328,
+            "link": "https://www.amazon.com.br/Marcada-1-Kristin-Cast/dp/857679229X"
+        },
+        {
+            "titulo": "A Arte da Guerra",
+            "autor": "Sun Tzu",
+            "ano": -500,
+            "editora": "Martin Claret",
+            "categorias": [
+                "Estratégia",
+                "Filosofia",
+                "História"
+            ],
+            "imagem_capa": "./imgs/a-arte-da-guerra.jpg",
+            "sinopse": "Um dos mais antigos e célebres tratados de estratégia militar...",
+            "numero_paginas": 132,
+            "link": "https://www.amazon.com.br/Arte-Guerra-Sun-Tzu/dp/8542805097/ref=asc_df_8542805097/?tag=googleshopp00-20&linkCode=df0&hvadid=709883381674&hvpos=&hvnetw=g&hvrand=2833147389526227275&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100398&hvtargid=pla-810952799163&psc=1&mcid=fc9cb65690e336068be65d1aefbbf9de&gad_source=1"
+        },
+        {
+            "titulo": "Onde está Teresa?",
+            "autor": "Jorge Amado",
+            "ano": 1947,
+            "editora": "Companhia das Letras",
+            "categorias": [
+                "Mistério",
+                "Suspense",
+                "Literatura brasileira"
+            ],
+            "imagem_capa": "./imgs/onde-esta-teresa.jpg",
+            "sinopse": "Uma trama de mistério e suspense que explora temas sociais e psicológicos...",
+            "numero_paginas": 240,
+            "link": "https://www.amazon.com.br/Onde-est%C3%A1-Teresa-Zibia-Gasparetto-ebook/dp/B07Q76CV48"
+        },
+        {
+            "titulo": "O alquimista",
+            "autor": "Paulo Coelho",
+            "ano": 1988,
+            "editora": "HarperCollins",
+            "categorias": [
+                "Ficção",
+                "Autoajuda",
+                "Espiritualidade"
+            ],
+            "imagem_capa": "./imgs/o-alquimista.jpg",
+            "sinopse": "A jornada de Santiago em busca de sua Lenda Pessoal...",
+            "numero_paginas": 208,
+            "link": "https://www.amazon.com.br/alquimista-Paulo-Coelho/dp/8584390677/ref=asc_df_8584390677/?tag=googleshopp00-20&linkCode=df0&hvadid=709857900159&hvpos=&hvnetw=g&hvrand=14307240774859605452&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100398&hvtargid=pla-334233035885&psc=1&mcid=5f12850489fd364c8e54929c0b853f59&gad_source=1"
+        },
+        {
+            "titulo": "Querido John",
+            "autor": "Nicholas Sparks",
+            "ano": 2006,
+            "editora": "Arqueiro",
+            "categorias": [
+                "Romance",
+                "Drama",
+                "Ficção"
+            ],
+            "imagem_capa": "./imgs/querido-john.jpg",
+            "sinopse": "Uma história de amor e perda que explora o poder transformador das relações...",
+            "numero_paginas": 288,
+            "link": "https://www.amazon.com.br/Querido-John-Sparks-Nicholas/dp/8563219022"
+        },
+        {
+            "titulo": "Amor ou algo assim",
+            "autor": "Kristen Tracy",
+            "ano": 2010,
+            "editora": "Intrínseca",
+            "categorias": [
+                "Ficção",
+                "Romance",
+                "Juvenil"
+            ],
+            "imagem_capa": "./imgs/amor-ou-algo-assim.jpg",
+            "sinopse": "Uma história de amor jovem, repleta de dúvidas, descobertas e crescimento...",
+            "numero_paginas": 304,
+            "link": "https://www.amazon.com.br/Amor-algo-assim-Mariana-Chazanas/dp/655532368X/ref=sr_1_1?dib=eyJ2IjoiMSJ9.pP8Z4jIautf4O8_tfvFa1OXoOd-VkXVZQyat4E2NUx1BHLiHqW_Ptks5bkiQvka4PHNNNWhliN-9WRDT5-LM8SVMPO_RFTIYFt2W--UChXgo8-T-U7UoJ2_eFgjYYf66fkiasbd35rEUVNkjcKl9t4VLtz5LsUEUi8JTwh-eGTHlOLL0mfxHUqOUuid5EUXBEDNDHXqN3gWhN6PmKg98AUg_WJ25ijcC9KQ9fifIpG4.8ezNRq9S5fwA7N6mz7-4J0KPrcnrzBFGb_3LrMrfW8A&dib_tag=se&keywords=livros+nacionais+brasileiros+romance&qid=1730657530&rnid=18726358011&s=books&sr=1-1"
+        }
+    ]
+}
